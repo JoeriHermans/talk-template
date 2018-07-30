@@ -7,8 +7,8 @@ A Turing machine example
 
 <br><br>
 
-Prof. Gilles Louppe<br>
-[g.louppe@uliege.be](mailto:g.louppe@uliege.be)
+Joeri  Hermans<br>
+[joeri.hermans@doct.uliege.be](mailto:joeri.hermans@doct.uliege.be)
 
 ---
 
