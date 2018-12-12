@@ -1,4 +1,4 @@
-class: middle, center, title-slide
+class: title-slide
 count: false
 
 # Template
@@ -7,8 +7,7 @@ A Turing machine example
 
 <br><br>
 
-Joeri  Hermans<br>
-[joeri.hermans@doct.uliege.be](mailto:joeri.hermans@doct.uliege.be)
+**Joeri Hermans**
 
 ---
 
