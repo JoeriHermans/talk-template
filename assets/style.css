@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,900);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,600);
+@import url('https://fonts.googleapis.com/css?family=Charm:400');
 
 body {
     font-family: "Raleway";
@@ -222,13 +223,13 @@ td {
 
 .title-slide:after {
     content: '';
-    /* background: url("../assets/logo_ulg.png") no-repeat; */
+    background: url("../assets/logo_ulg.png") no-repeat;
     background-size: 100% 100%;
     width: 150px;
     height: 73px;
     position: absolute;
-    bottom: 2em;
-    left: 3.3em;
+    bottom: 4em;
+    left: 106px;
     display: inline-block;
 }
 
@@ -251,6 +252,7 @@ td {
 }
 
 .end-slide {
+    font-family: "Charm";
     background-color: #222;
     color: white;
     font-size: 2em;

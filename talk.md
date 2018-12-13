@@ -74,4 +74,4 @@ class: middle
 class: end-slide, center
 count: false
 
-The end.
+fin
